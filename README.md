@@ -28,6 +28,7 @@ This guide explains the steps to set up an NGINX server on an AWS Free Tier Ubun
 
    ```bash
    sudo apt update
+   sudo apt upgrade -y
    ```
 
 3. **Install NGINX**:
