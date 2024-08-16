@@ -61,7 +61,7 @@ This guide explains the steps to set up an NGINX server on an AWS Free Tier Ubun
 1. **Modify Security Group settings** to allow inbound traffic on ports 80 and 443.
 
    - Go to the **EC2 Dashboard**.
-   - Select **Security Groups.
+   - Select **Security Groups**.
    - Edit the inbound rules of your security group to include `HTTP` and `HTTPS`.
 
    ![Inbound rules](screenshots/security.PNG)
