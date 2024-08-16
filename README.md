@@ -90,8 +90,9 @@ This guide explains the steps to set up an NGINX server on an AWS Free Tier Ubun
 
 3. Test the deployment by accessing:
 
-   http://<EC2_PUBLIC_IP>/Medilab
-   http://<EC2_PUBLIC_IP>/Logis
+   - http://<EC2_PUBLIC_IP>/Medilab
+
+   - http://<EC2_PUBLIC_IP>/Logis
 
     **Logis**
    ![Logis](screenshots/Logis-in-browser.PNG)
