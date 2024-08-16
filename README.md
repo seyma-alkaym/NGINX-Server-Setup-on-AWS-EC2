@@ -8,7 +8,7 @@ This guide explains the steps to set up an NGINX server on an AWS Free Tier Ubun
 
 1. **Log in to your AWS Management Console**.
 2. **Navigate to the EC2 Dashboard** and click on **Launch Instance**.
-3. **Choose the Ubuntu AMI** (Amazon Machine Image).
+3. **Choose the Ubuntu AMI** (Ubuntu Machine Image).
 4. **Select an Instance Type** (e.g., t2.micro for Free Tier).
 5. **Configure Instance Details**, including network settings.
 6. **Add Storage** as needed.
